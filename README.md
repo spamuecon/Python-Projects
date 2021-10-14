@@ -12,7 +12,7 @@ Database-Centered Projects:
 
 Intermediate Projects:
 
-1.Discord Bot created to play Hangman
+1. Discord Bot created to play Hangman
 
 2. more to come soon...
 
