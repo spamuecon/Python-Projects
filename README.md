@@ -11,6 +11,7 @@ Database-Centered Projects:
 3. Utilizing PyQt for SQL database structures
 
 Intermediate Projects:
+
 1.Discord Bot created to play Hangman
 
 2. more to come soon...
