@@ -14,6 +14,6 @@ Intermediate Projects:
 
 1. Discord Bot created to play Hangman
 
-2. more to come soon...
+2. Python Stock Tracker
 
 3. more to come soon...
